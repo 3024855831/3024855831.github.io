@@ -1,0 +1,37 @@
+# Site settings
+name: 兴丶殇
+email: 18264011026@163.com
+author: Zhenxing Geng
+url: http://127.0.0.1:4000
+resume_site: http://www.softhearted.net/myinfo.php
+github: https://github.com/luoyan35714/
+# baseurl: "/LessOrMore-master"
+description: Stay hungry, stay foolish. 少年辛苦终身事，莫向光阴惰寸功。
+meta_description: 耿振兴;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: 我的博客.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: 3024855831
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : luoyan35714
+    disqus :
+        short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
