@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "upload & 分页 & AJAX"
-date:   2013-10-16 20:56:01 +0800
+date:   2016-10-16 20:56:01 +0800
 categories: AJAX
 tag: 小记
 ---
